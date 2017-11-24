@@ -1,2 +1,2 @@
-# DataScience
-This is a repo dedicated for my specialization in Data Dcience 
+# Data Science
+This is a Repo dedicated to my Data Science specialization program. 
